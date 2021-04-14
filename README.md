@@ -20,6 +20,9 @@ Projects:
 
 Sonar Mine Classification
 
+The purpose of this project is to explore the patterns in a SONAR mine data set using sciikit-learn, 
+a free Python machine learning (ML) library.
+
 
 📫 Contact: terrence.lawrence@ieee.org
 

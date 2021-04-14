@@ -16,6 +16,11 @@ shared memory), multi-threaded applications, scripting languages(e.g. Octave, Ma
 🎆 The purpose of this repository is to provide a sandbox to explore and collaborate with concepts in machine learning,
 signal processs, image processing, embedded systems, and sensors.
 
+Projects:
+
+Sonar Mine Classification
+
+
 📫 Contact: terrence.lawrence@ieee.org
 
 <!---

@@ -16,7 +16,7 @@
 </li>
 </ul>
 
-📫 <strong>Contact:</strong> terrence.lawrence@ieee.org
+📫 <strong>Contact:</strong> lawrenceta.github@gmail.com
 
 <!---
 lawrenceta/lawrenceta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
